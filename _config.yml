@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://theinsufferabledanavery.com
+title: The Insufferable Dan Avery 
+subtitle: Written by, of all people, Dan Avery.
+author: Daniel Avery
 simple_search: http://google.com/search
-description:
+description: The Insufferable Dan Avery is written by -- oddly enough -- Dan Avery. Mr. Avery is a poet warrior turned web designer and the sort of chap who struggles in a world he never made very much like Don Quixote.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -45,13 +45,13 @@ titlecase: true       # Converts page and post titles to tilecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [custom/asides/about.html, asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# blog_index_asides:
-# post_asides:
-# page_asides:
+blog_index_asides: [custom/asides/about.html, asides/recent_posts.html, asides/twitter.html]
+post_asides: [custom/asides/about.html, asides/recent_posts.html, asides/twitter.html]
+page_asides: [custom/asides/about.html, asides/recent_posts.html, asides/twitter.html]
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: dan_avery
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: theinsufferabledanavery
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-22925091-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

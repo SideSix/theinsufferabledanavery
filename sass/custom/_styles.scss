@@ -1,0 +1,12 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+body > header {
+  background: image-url('denim.png');
+ h1 {
+  a, a:visited, a:hover {
+   color: #222;
+   text-decoration: none;
+   text-shadow: 0 2px 3px #555;
+  }
+ }
+}

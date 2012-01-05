@@ -1,3 +1,17 @@
+## Welcome
+
+I started this blog about three years ago because I went to a Mission Viejo City Council meeting to see if the council was going to approve a dog park. I have a dog named Hunter and at the time he was about six months old. I came home from that one meeting knowing I'd have to get involved in city politics in some fashion.  The problem? Some right-wing fascists were trying to take over the Mission Viejo City Council.
+
+Hunter is going on four years old now and the dog park still isn't built. Let's be clear about something. A dog park is a two maybe three meeting decision. The Mission Viejo Dog Park was placed on the agenda in 2002. It's now 2012. The city has 53% of it's budget in reserves, they have $8 million that has to be spent on parks. Conservatives don't appear to be the sharpest tools in the shed. But then they tend to descend from the Puritan stock which fled Europe because their way of thinking was mocked and scorned. And now those European countries are extremely progressive and could teach the United States a thousand things about Human Rights. 
+
+Anyway, the blog gives me a place to vent. Then I usually clean up the language and publish another version on [The Mission Viejo Patch](http://missionviejopatch.com). Get this: the fascists have a blog called the Mission Viejo Dispatch.  The owner sent a cease and desist order to The Mission Viejo Patch, which is owned by AOL. The editor sent this cease and desist order on to the legal department at AOL. Imagine the level of intelligence in a person who thinks the first amendment only applies to him. Very funny stuff.
+
+My day job is creating web sites. I tend to see myself as a craftsman and I'm very interested in the newer web technologies now that you don't have to put a poem inside of a table.  That was just a little too violent for my tastes. So I'm playing around with ruby and static site generators to speed up the work flow, but still produce quality. 
+
+The other day I stumbled onto Octopress.  I'm checking it out.  So far I'm loving it. Below is the relevant parts of the Octopress README file. 
+
+Have fun!
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
@@ -12,25 +26,3 @@ Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 ## Documentation
 
 Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
-
-
-## Contributing
-
-We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plug-ins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them them into our main releases.
-
-
-## License
-(The MIT License)
-
-Copyright © 2009-2011 Brandon Mathis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-#### If you want to be awesome.
-- Proudly display the 'Powered by Octopress' credit in the footer.
-- Add your site to the Wiki so we can watch the community grow.
