@@ -130,6 +130,10 @@ blockquote {
   /* Reset metrics. */
   padding: 0;
   border: none;
+  font-weight: bold;
+  color: #5E6976;
+  border-left: 1px solid #ccc;
+  padding-left: 9px;
 
   /* Content */
   content: attr(data-pullquote);
@@ -137,7 +141,7 @@ blockquote {
   /* Pull out to the right, modular scale based margins. */
   float: right;
   width: 45%;
-  margin: .5em 0 1em 1.5em;
+  margin: .5em 0 1em .8em;
 
   /* Baseline correction */
   position: relative;
